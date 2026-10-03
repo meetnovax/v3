@@ -1,0 +1,14 @@
+NovaX V48 — Dedicated Dynamic Results Page
+
+- Added dedicated results.html so the Quiz now hands off to a separate dynamic Builder Results experience.
+- Quiz scoring/profile/referral state remains stored in the existing novax_builder_v4 localStorage state and the completed Quiz redirects to Results.
+- Results hero rebuilt around the approved Results mockup direction, including the X-circle Builder artwork and Builder Score™ circle.
+- Added Build Your Tomorrow™ beside the Results-page NovaX™ logo.
+- Rebuilt the Builder Card presentation as a dynamic Results component with responsive data, sharing, save, and QR actions.
+- Removed reliance on the retired approved-ring.png asset; current approved X-ring asset remains available for future approved uses.
+- Results uses 5 / 15 / 25 Confirmed Invite Path thresholds plus the existing 50 / 100 / 250 / 500 / 1,000 Founder milestones.
+- Corrected Results footer language to Your Builder Journey™.
+- Hub footer tagline remains removed.
+- Builder Lounge™ is the canonical product term going forward.
+- Removed retired assets from the V48 package: approved-ring.png, landing-approved-mockup.png, landing-background.png, NovaX_logo_transparent.png.
+- Landing page implementation was not redesigned.
